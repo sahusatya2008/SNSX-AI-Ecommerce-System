@@ -1,4 +1,4 @@
-# SNSAI Commerce
+# SNSAI Commerce System
 
 Full-stack ecommerce web system built with Next.js, TypeScript, and a local JSON datastore.
 
@@ -67,4 +67,7 @@ npm run master:test
 - Seeded data is stored in `data/db.json`.
 - If you want a fresh reset, delete `data/db.json` and restart the app.
 - New seller registrations are created in pending mode until approved by the admin.
-# SNSX-AI-Ecommerce-System
+
+## Developer & Note
+- Satya Narayan Sahu
+- This entire software is not for personal or commerical use and not open for developers to download it, modify or use it at any kind. This software is entirely registered and IPR for Satya Narayan Sahu only.
